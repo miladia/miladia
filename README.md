@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miladia - Milad Ghadirian
-- 👀 I’m interested in next.js, reactjs, laravel and android programming
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in next.js, reactjs and laravel 
+- 🌱 I’m currently learning typescript and design system
 - 📫 email : milad.ghadirian@gmail.com
 
 <!---
